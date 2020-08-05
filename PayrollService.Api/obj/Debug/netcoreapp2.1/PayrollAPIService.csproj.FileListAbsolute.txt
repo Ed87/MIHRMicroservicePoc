@@ -1,0 +1,14 @@
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\bin\Debug\netcoreapp2.1\PayrollAPIService.deps.json
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\bin\Debug\netcoreapp2.1\PayrollAPIService.runtimeconfig.json
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\bin\Debug\netcoreapp2.1\PayrollAPIService.runtimeconfig.dev.json
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\bin\Debug\netcoreapp2.1\PayrollAPIService.dll
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\bin\Debug\netcoreapp2.1\PayrollAPIService.pdb
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\obj\Debug\netcoreapp2.1\PayrollAPIService.csprojAssemblyReference.cache
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\obj\Debug\netcoreapp2.1\PayrollAPIService.csproj.CoreCompileInputs.cache
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\obj\Debug\netcoreapp2.1\PayrollAPIService.RazorAssemblyInfo.cache
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\obj\Debug\netcoreapp2.1\PayrollAPIService.RazorAssemblyInfo.cs
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\obj\Debug\netcoreapp2.1\PayrollAPIService.AssemblyInfoInputs.cache
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\obj\Debug\netcoreapp2.1\PayrollAPIService.AssemblyInfo.cs
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\obj\Debug\netcoreapp2.1\PayrollAPIService.RazorTargetAssemblyInfo.cache
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\obj\Debug\netcoreapp2.1\PayrollAPIService.dll
+C:\Users\tshumae.FBC\source\repos\PayrollMicroServicePoc\PayrollService.Api\obj\Debug\netcoreapp2.1\PayrollAPIService.pdb
